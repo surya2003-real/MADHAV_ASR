@@ -1,0 +1,8 @@
+dataset
+dest
+librispeech
+mixed_audio
+output
+results
+*.zip
+~/panns_data
